@@ -63,7 +63,35 @@ margin: 4px 2px;
 .button:hover {
 background-color: #01070160;
 }
+.anantashesha{
+padding-top: 5px;
+width: 95%;
+height: auto;
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+.polariod{
+width: 80%;
+background-color: rgba(0, 0, 0, 0.658);
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+margin-bottom: 25px;
+height: auto;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.polariod_text{
+text-align: center;
+padding: 5px 20px;
+color:azure
+}
+
 .lake {
+width: 95%;
+height: auto;
 display: block;
 margin-left: auto;
 margin-right: auto;
@@ -71,6 +99,7 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 border: 2px solid rgba(201, 12, 12, 0.897);
 padding: 5px;
 }
+
 .shuck {
 width: 30%;
 float: right;
@@ -93,6 +122,15 @@ height: 50%;
 margin: auto;
 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 border: 2px solid rgba(255, 0, 0, 0.548);
+border-radius: 8px;
+padding: 5px;
+width:  50%;
+height: 50%;
+}
+
+.content_child {
+margin: auto;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 border-radius: 8px;
 padding: 5px;
 width:  50%;
