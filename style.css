@@ -63,9 +63,20 @@ margin: 4px 2px;
 .button:hover {
 background-color: #01070160;
 }
-
+.lake {
+display: block;
+margin-left: auto;
+margin-right: auto;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+border: 2px solid rgba(201, 12, 12, 0.897);
+padding: 5px;
+}
 .shuck {
 width: 30%;
+float: right;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+border: 2px solid rgba(201, 12, 12, 0.897);
+padding: 5px;
 }
 
 .content_home {
@@ -79,14 +90,14 @@ height: 50%;
 }
 
 .content {
-    margin: auto;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    border: 2px solid rgba(255, 0, 0, 0.548);
-    border-radius: 8px;
-    padding: 5px;
-    width:  50%;
-    height: 50%;
-    }
+margin: auto;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+border: 2px solid rgba(255, 0, 0, 0.548);
+border-radius: 8px;
+padding: 5px;
+width:  50%;
+height: 50%;
+}
 
 .home_m {
 color: red;
